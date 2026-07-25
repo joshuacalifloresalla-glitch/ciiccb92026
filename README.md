@@ -1,91 +1,58 @@
 <div align="center">
 
-# 👋 Hi, I'm Joshua C. Alla
+# Hi 👋 I'm Joshua C. Alla
 
-### 🚀 Beginner DevOps Engineer
+### Beginner DevOps Engineer
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350"/>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
 
-*"Learning one command at a time, building one project at a time."*
+*"Learning something new every day."*
 
 </div>
 
 ---
 
-# 💻 About Me
+## 👨‍💻 About Me
 
-🎓 Beginner DevOps Engineer
-
-🌱 Currently learning:
-- Linux
-- Git & GitHub
-- Docker
-- CI/CD
-- Cloud Computing
-
-💡 Programming Knowledge:
-- HTML
-- CSS
-- C Programming
-
-🎯 Goal:
-> Become a skilled DevOps & Cloud Engineer by continuously learning and building real-world projects.
+- 🎓 Beginner DevOps Engineer
+- 🌱 Currently learning Linux, Docker, Git, and GitHub
+- 💻 Basic knowledge of HTML, CSS, and C
+- 🚀 Interested in DevOps and Cloud Computing
 
 ---
 
-# 🛠️ Skills
+## 📚 Currently Learning
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,c,git,github,linux,docker,vscode,bash" />
-</p>
-
----
-
-# 📚 Currently Learning
-
-```text
-🐧 Linux            ███████░░░░
-🐳 Docker           █████░░░░░░
-⚙️ Git & GitHub     ████████░░░
-☁️ Cloud            ███░░░░░░░░
-🚀 CI/CD            ███░░░░░░░░
-```
+- 🐧 Linux
+- 🐳 Docker
+- ⚙️ Git & GitHub
+- ☁️ Cloud Computing
+- 🚀 CI/CD
 
 ---
 
-# 📂 Current Focus
+## 🎯 My Goals
 
-- 🌱 Learning DevOps Fundamentals
-- 🐳 Practicing Docker
-- ⚙️ Improving Linux Skills
-- 📦 Building Automation Projects
-- ☁️ Exploring Cloud Technologies
-
----
-
-# 🎯 2026 Goals
-
-- ✅ Master Git & GitHub
-- ✅ Learn Docker
-- 🔄 Learn Kubernetes
-- 🔄 Build CI/CD Pipelines
-- 🔄 Deploy Applications to the Cloud
-- 🔄 Earn a Cloud Certification
+- Learn DevOps tools
+- Improve Linux skills
+- Build small projects
+- Learn Docker
+- Explore Cloud Computing
 
 ---
 
-# 💭 Favorite Quote
+## 💬 Quote
 
-> **"First, solve the problem. Then, automate the solution."**
+> **"Keep learning. Keep building."**
 
 ---
 
 <div align="center">
 
-## Thanks for visiting! 👋
+### Thanks for visiting! 👋
 
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="220"/>
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="180"/>
 
-⭐ **Keep Learning • Keep Building • Keep Growing**
+⭐ Happy Coding!
 
 </div>
